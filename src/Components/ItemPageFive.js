@@ -102,7 +102,7 @@ const ItemPageFive = () => {
       <div className="top-item">
         {/* 이미지도 기능페이지에 맞게 개인적으로 수정해서 사용 하시면 됩니다! */}
         <img
-          src={`${process.env.PUBLIC_URL}/image/images/save.png`}
+          src={`${process.env.PUBLIC_URL}/image/img/itempagefive.png`}
           alt="메인 이미지"
           className="shrink"
         />
