@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parkin-yull/static/css/main.74aed7d6.css",
+    "main.js": "/parkin-yull/static/js/main.47e92288.js",
+    "index.html": "/parkin-yull/index.html",
+    "main.74aed7d6.css.map": "/parkin-yull/static/css/main.74aed7d6.css.map",
+    "main.47e92288.js.map": "/parkin-yull/static/js/main.47e92288.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74aed7d6.css",
+    "static/js/main.47e92288.js"
+  ]
+}
